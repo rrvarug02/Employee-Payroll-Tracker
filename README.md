@@ -1,4 +1,4 @@
-##Descriptionn
+## Description
 
 In this project, I utilized basic JavaScript to enhance the user's interactivity on the website. I implemented a feature where the users could input data about their employees. Once the users finished entering data, each employee's data was stored in an object, and these objects were collected in an array. I then wrote code in JS to calculate the average salary of the employees and randomly selected an employee from the list, logging all the information to the console. Additionally, I included some data validation using the isNaN function to ensure correct input. I also used the built in Math object to help with the random number generator. 
 
